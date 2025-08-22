@@ -28,25 +28,23 @@ latest_posts:
 ---
 
 Notre compagnie est spécialisée dans la création de contenus narratifs innovants, principalement dans les genres fantastique et science-fiction. Nous concevons des textes originaux tels que :
-
-Nouvelles
-Scénarios pour jeux vidéo
-Scripts pour courts-métrages ou productions cinématographiques
-Univers et biographies de personnages
-Grâce à une équipe passionnée d’auteurs, de scénaristes et de créatifs, nous sommes capables de répondre aux besoins spécifiques des secteurs du divertissement, de l’audiovisuel et de l’édition. Qu’il s’agisse d’un script immersif pour un jeu vidéo, d’une histoire courte captivante ou du développement d’un univers original, nous mettons notre imagination au service de projets variés.
+> * Nouvelles.
+> * Scénarios pour jeux vidéo.
+> * Scripts pour courts-métrages ou productions cinématographiques.
+> * Univers et biographies de personnages.
+Nous sommes capables de répondre aux besoins spécifiques des secteurs du divertissement, de l’audiovisuel et de l’édition. Qu’il s’agisse d’un script immersif pour un jeu vidéo, d’une histoire courte captivante ou du développement d’un univers original, nous mettons notre imagination au service de projets variés.
 
 Notre expertise repose sur :
-
-La maîtrise des codes du fantastique et de la science-fiction
-La capacité à travailler en collaboration avec des équipes artistiques et techniques
-Une grande adaptabilité aux formats et contraintes du client
+> * La maîtrise des codes du fantastique et de la science-fiction.
+> * La capacité à travailler en collaboration avec des équipes artistiques et techniques.
+> * Une grande adaptabilité aux formats et contraintes du client/
 Nous accompagnons nos partenaires de la phase de conception à la livraison finale du texte ou du scénario, en nous adaptant aux spécificités de chaque support et de chaque public cible.
 
 Nos objectifs :
 
-Stimuler l’imaginaire des publics
-Valoriser le storytelling dans les œuvres interactives et linéaires
-Fournir des bases solides pour la production visuelle et multimédia
+> * Valoriser le storytelling dans les œuvres interactives et linéaires
+> * Fournir des bases solides pour la production visuelle et multimédia
+
 N’hésitez pas à nous contacter pour donner vie à vos mondes et à vos histoires !
 
 Si vous avez besoin d'une version adaptée (plus courte, plus formelle, ou orientée vers un secteur particulier), signalez-le-moi !
