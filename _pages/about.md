@@ -47,6 +47,5 @@ Nos objectifs :
 
 N’hésitez pas à nous contacter pour donner vie à vos mondes et à vos histoires !
 
-Si vous avez besoin d'une version adaptée (plus courte, plus formelle, ou orientée vers un secteur particulier), signalez-le-moi !
 
 [subreddit](http://reddit.com)
